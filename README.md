@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan!</h1>
-<h3 align="center">A driven AI/ML high school developer from Illinois</h3>
+<h3 align="center">A driven AI/ML high school developer from Illinois that loves generative models</h3>
 
 - 📫 How to reach me **rkrao@stu.naperville203.org**
 
